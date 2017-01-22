@@ -1,7 +1,7 @@
-This Android application performs a simple twitter search using Twitter’s REST API.
+This Android application performs a simple twitter search using Twitterâ€™s REST API.
 This project contains:
 
-.\library ->
+.\library
 
 	The library module that gets a search term (string of hashtag) and return array of tweets from twitter.
 
